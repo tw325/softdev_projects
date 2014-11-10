@@ -13,7 +13,7 @@ https://github.com/vazzara/group-4-name-search.git
 
 <b>python-attack-of-the-pythons</b>
 
-Tianshi Wang, Max Zhou, Ivy Wong, David Liang<br>
+Tianshi Wang, Max Zhou, Nadia Saleh, David Liang<br>
 SQL Blogging Engine<br>
 https://github.com/Citronnade/python-attack-of-the-pythons.git
 
