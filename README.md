@@ -18,7 +18,7 @@ SQL Blogging Engine<br>
 https://github.com/Citronnade/python-attack-of-the-pythons.git
 
 <b>upcoming API project</b><br>
-Tianshi Wang, Brian Guo
+Tianshi Wang, Brian Guo<br>
 API JSON project<br>
 https://github.com/BrianGuo/Json_Project.git
 
