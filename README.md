@@ -19,6 +19,8 @@ https://github.com/Citronnade/python-attack-of-the-pythons.git
 
 <b>upcoming API project</b><br>
 Tianshi Wang, Brian Guo
+API JSON project<br>
+https://github.com/BrianGuo/Json_Project.git
 
 <h2>Mini Projects</h2>
 
