@@ -38,4 +38,4 @@ https://github.com/BrianGuo/Json_Project.git
 
 <ul>js to do list
 <ul><li>Tianshi Wang, Lise Ho</li>
-<li>7/todo/tianshi-lise/li></ul></ul>
+<li>7/todo/tianshi-lise</li></ul></ul>
