@@ -35,3 +35,7 @@ https://github.com/BrianGuo/Json_Project.git
 <ul>intro-proj 1
 <ul><li>Tianshi Wang, Barak Zhou</li>
 <li>7/intro-proj1/tianshi-barak</li></ul></ul>
+
+<ul>js to do list
+<ul><li>Tianshi Wang, Lise Ho</li>
+<li>7/todo/tianshi-lise/li></ul></ul>
