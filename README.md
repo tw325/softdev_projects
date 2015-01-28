@@ -5,6 +5,11 @@ Fall Semester<br>
 Period 7</h1>
 
 <h2>Main Projects</h2>
+<b>leaf</b><br>
+Tianshi Wang, Brian Guo, Christopher Kim, David Liang<br>
+FINAL PROJECT<br>
+https://github.com/softdev-7-leaf/leaf.git
+
 <b>group-4-name-search</b>
 
 Tianshi Wang, Derek Tsui, Veronika Azzara, Lev Akabas<br>
@@ -17,7 +22,7 @@ Tianshi Wang, Max Zhou, Nadia Saleh, David Liang<br>
 SQL Blogging Engine<br>
 https://github.com/Citronnade/python-attack-of-the-pythons.git
 
-<b>upcoming API project</b><br>
+<b>API project</b><br>
 Tianshi Wang, Brian Guo<br>
 API JSON project<br>
 https://github.com/BrianGuo/Json_Project.git
